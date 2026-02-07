@@ -114,6 +114,6 @@ Implemented RESTful APIs for CRUD operations, integrated React frontend using Ax
 
 ### Author
 
-Yash Shirude
+Yash Shirude.
 GitHub: https://github.com/yashshirude265107
 
