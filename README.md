@@ -1,4 +1,4 @@
-# Student Management System (Full Stack)
+# 🎓Student Management System (Full Stack)
 
 A professional **Full Stack Student Management System** built using  
 **Spring Boot (REST API Backend)** and **React (Frontend UI)**.
@@ -105,7 +105,7 @@ CORS enabled in backend for frontend integration
 - Delete student
 - REST API based architecture
 
-## Project Description (Resume Ready)
+## Project Description 
 
 Developed a Full Stack Student Management System using Spring Boot and React.
 Implemented RESTful APIs for CRUD operations, integrated React frontend using Axios, and followed MVC architecture with Spring Data JPA and MySQL.
